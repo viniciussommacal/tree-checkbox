@@ -26,5 +26,6 @@ export default defineComponent({
 .app {
   display: flex;
   justify-content: center;
+  font-family: "Poppins", sans-serif;
 }
 </style>

@@ -1,7 +1,35 @@
-# Vue 3 + Vite
+# ⚡ Tree checkbox
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 📦 Instalação
 
-## Recommended IDE Setup
+Instale as dependências:
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+```bash
+npm install
+```
+
+## 🚀 Scripts
+
+### `npm run dev`
+
+Inicia o servidor de desenvolvimento com hot reload.
+
+```bash
+npm run dev
+```
+
+### `npm run build`
+
+Compila o projeto para produção, gerando os arquivos otimizados na pasta `dist`.
+
+```bash
+npm run build
+```
+
+### `npm run preview`
+
+Executa um servidor local para pré-visualizar a build de produção.
+
+```bash
+npm run preview
+```
